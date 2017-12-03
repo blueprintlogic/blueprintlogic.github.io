@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Blueprint Logic
+
+# THANKS
+
+    The Community
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, JavaScript, jQuery, Modernizr, Page Speed Optimization, Google Analytics, Google Webmaster Tools, Piwik, HotJar, Mixpanel, comScore, ClickTale, Woopra, StatCounter, Quantcast, Clicky, GoingUp, Open Web Analytics
